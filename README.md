@@ -1,4 +1,6 @@
 # RandomizedSVD
+A project for the Specialized Master in HPC-AI from Mines Paris.
+
 Implementation on python of the randomized SVD from Facebook.
 
 ## Code
